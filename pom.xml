@@ -64,6 +64,7 @@
                         <nativeLibrariesDirectory>${project.basedir}/src/main/native</nativeLibrariesDirectory>
                         <sdk>
                             <platform>7</platform>
+                            <path>/home/sal/opt/android-sdk-linux_x86</path>
                         </sdk>
                                                 <deleteConflictingFiles>true</deleteConflictingFiles>
                         <undeployBeforeDeploy>true</undeployBeforeDeploy>
